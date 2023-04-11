@@ -11,7 +11,7 @@
 [<img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/hr.gif"/>](https://github.com/nillcoderbot)
 
 <p align="center">
-<img src="https://te.legra.ph/file/9f9f9e906aa1dfdef2e29.jpg">
+<img src="https://graph.org/file/f6a41b613779b61fe3bd2.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/nillcoderbot/nillcoderbot/master/resources/hr.gif"/>](https://github.com/nillcoderbot)
