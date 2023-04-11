@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/hr.gif"/>](https://github.com/nillcoderbot)
 
-<h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> 𝗛𝗮𝘆 𝘁𝗵𝗲𝗿𝗲, 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗡𝗶𝗹𝗹𝗖𝗼𝗱𝗲𝗿𝗕𝗼𝘁 </h1>
+<h1> <img src="https://graph.org/file/eddc4247c64e133ad0667.jpg" height="90px" width="80px"> 𝗛𝗮𝘆 𝘁𝗵𝗲𝗿𝗲, 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗡𝗶𝗹𝗹𝗖𝗼𝗱𝗲𝗿𝗕𝗼𝘁 </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/nillcoderbot/count.svg" />
