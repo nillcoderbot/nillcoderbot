@@ -56,7 +56,7 @@ class Anonymous():
 
 <h1> <img src="https://raw.githubusercontent.com/nillcoderbot/nillcoderbot/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="nillcoderbot Spotify" width="75%" />](https://open.spotify.com/user/nillcoderbot)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="nillcoderbot Spotify" width="75%" />](https://open.spotify.com/user/31bt6wgfzpoujo744epmkyvdsd5u?si=ZV56zTdyQ060fvN6p_5LQg&dd=1)
 
 [<img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/hr.gif"/>](https://github.com/nillcoderbot)
 
