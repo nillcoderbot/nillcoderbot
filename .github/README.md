@@ -50,7 +50,7 @@ class Nillcoderbot():
 
 
 [<img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/hr.gif"/>](https://github.com/nillcoderbot)
-<h1> <img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <img src="https://graph.org/file/d783210aea6570e711d7e.jpg" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=nillcoderbot&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/nillcoderbot)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=nillcoderbot&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/nillcoderbot)
 
