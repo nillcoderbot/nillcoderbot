@@ -1,3 +1,5 @@
+## Hello There :wave:, Welcome to my GitHub profile.
+
 [<img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/hr.gif"/>](https://github.com/nillcoderbot)
 
 <h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> 𝗛𝗮𝘆 𝘁𝗵𝗲𝗿𝗲, 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗡𝗶𝗹𝗹𝗖𝗼𝗱𝗲𝗿𝗕𝗼𝘁 </h1>
@@ -40,6 +42,12 @@ class Anonymous():
             'Windows', 'Android', 'Linux'
         ]
  ```
+
+## My Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=nillcoderbot&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=nillcoderbot&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/nillcoderbot)
+
 
 [<img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/hr.gif"/>](https://github.com/nillcoderbot)
 <h1> <img src="https://github.com/nillcoderbot/nillcoderbot/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
